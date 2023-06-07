@@ -1,5 +1,5 @@
 ---
-description: 'Author: @wingkwong, @deepanshu-rawat6 | https://leetcode.com/problems/valid-perfect-square/'
+description: 'Author: @wingkwong, @deepanshu-rawat6, @radojicic23 | https://leetcode.com/problems/valid-perfect-square/'
 ---
 
 # 0367 - Valid Perfect Square (Easy)
